@@ -5,13 +5,13 @@
         A huge library of MatCap textures in PNG and ZMT.
     </p>
     <p align="center">
-       Dynamic Gallery View at https://observablehq.com/d/2c53c7ee9f619740?ui=classic
+       Dynamic Gallery View at [https://observablehq.com/d/2c53c7ee9f619740?ui=classic](https://observablehq.com/d/2c53c7ee9f619740?ui=classic)
     </p>
 </div>
 
 <br>
 
-TLDR; Scroll to bottom of page to explore textures, or access the dynamic gallery created by [Lionel Radisson](https://github.com/MAKIO135) at https://observablehq.com/d/2c53c7ee9f619740?ui=classic
+TLDR; Scroll to bottom of page to explore textures, or access the dynamic gallery created by [Lionel Radisson](https://github.com/MAKIO135) at [https://observablehq.com/d/2c53c7ee9f619740?ui=classic](https://observablehq.com/d/2c53c7ee9f619740?ui=classic)
 
 
   
